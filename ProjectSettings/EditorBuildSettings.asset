@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: 
     guid: ae827b0911ccdd146ac15e245084bd91
   - enabled: 1
-    path: Assets/test.unity
+    path: 
     guid: f80120f566ee76c439ac27443e8f9095
+  - enabled: 1
+    path: Assets/Ellen.unity
+    guid: 054bd43688b534b0e842bbdd8fc6771e
   m_configObjects: {}
